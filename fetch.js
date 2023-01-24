@@ -1,0 +1,3 @@
+$(selector).on(click, function () {
+   
+});
